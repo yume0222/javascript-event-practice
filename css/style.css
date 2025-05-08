@@ -1,0 +1,24 @@
+@charset 'utf-8';
+
+.dark-theme {
+  background: #000000;
+  color: #ddd;
+}
+#dark-mode-btn {
+  padding: 1rem 2rem;
+  background: #0bd;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.alert {
+  color: #f66;
+}
+
+#bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 10px;
+  background: #0bd;
+}
